@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load data
-df = pd.read_csv(r"../streamlit_dashboard/cleaned_superstore_data.csv")
+df = pd.read_csv(r"cleaned_superstore_data.csv")
     
 
 
